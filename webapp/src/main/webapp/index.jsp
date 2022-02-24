@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account. Yazan's first DevOps project</p>
     <hr>
 
-    <label for="emails"><b>Email</b></label>
+    <label for="emailss"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
 	<br>
 
