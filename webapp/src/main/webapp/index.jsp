@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Register</h1>
-    <p>Please fill in this form to create an account. Yazan's first DevOps project New Test this is the f new test </p>
+    <p>Please fill in this form to create an account. Yazan's first DevOps project New Test this is the f new tests </p>
     <hr>
 
     <label for="emailss"><b>Email</b></label>
