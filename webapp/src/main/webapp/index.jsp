@@ -3,6 +3,10 @@
     <h1>New user Register</h1>
     <p>Please fill in this form to create an account. Yazan's first DevOps project New Test this is the f new tests </p>
     <hr>
+	
+    <label for="Name"><b>Name</b></label>
+    <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
+	<br>
 
     <label for="emailss"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
