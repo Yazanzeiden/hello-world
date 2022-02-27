@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account. Yazan's first DevOps project New Test this is the f new tests </p>
     <hr>
 	
-    <label for="Name"><b>Name</b></label>
+    <label for="Name"><b>Email</b></label>
     <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
 	<br>
 
