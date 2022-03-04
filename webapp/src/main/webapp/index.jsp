@@ -4,10 +4,10 @@
     <p>Please fill in this form to create an account. Testing my new ansible jenkins job again and again  friday testYYYwYs</p>
     <hr>
 	
-    <label for="Name"><b>Email</b></label>
+    <label for="Name"><b>Enter name</b></label>
     <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
 	<br>
-	<label for="Name"><b>Email</b></label>
+	<label for="Name"><b>Enter Email</b></label>
     <input type="Yazan" placeholder="Yazan" name="Yazan" id="Yazan" required>
 	<br>
 
